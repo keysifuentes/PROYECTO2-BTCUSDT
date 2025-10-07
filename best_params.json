@@ -1,0 +1,13 @@
+{
+  "rsi_window": 15,
+  "rsi_low": 23,
+  "rsi_high": 75,
+  "sma_fast": 10,
+  "sma_slow": 95,
+  "macd_fast": 11,
+  "macd_slow": 19,
+  "macd_signal": 11,
+  "sl": 0.02620156897561742,
+  "tp": 0.05490580638789777,
+  "n_shares": 1.5000000000000002
+}
